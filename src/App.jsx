@@ -1,5 +1,5 @@
-import { logoreact } from './assets/react.svg'
-import './Components/todo/todo.css'
+// import { logoreact } from './assets/react.svg'
+// import './Components/todo/todo.css'
 const App = () => {
   return (
     <>
